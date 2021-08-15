@@ -49,8 +49,13 @@ body {
 }
 
 .NameSpan,
-.RatingSpan {
+.Description,
+.Rating {
   display: block;
   color: #374151;
   font-weight: 600;
+}
+
+.Description {
+  margin: 0.5rem 0;
 }
